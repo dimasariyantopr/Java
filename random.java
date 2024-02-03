@@ -1,7 +1,7 @@
 package random;
 import java.util.*;
 
-public class Latihan {
+public class random {
     
     public static void main(String args[]){
         
