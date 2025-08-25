@@ -1,3 +1,26 @@
-# Java
+# ☕ Java Projects
 
-Pada repository ini, saya akan membagikan berbagai syntaks sederhana dengan menggunakan bahasa pemrograman java. Mini proyek java berisi berbagai proyek sederhana seperti, program kalkulator dan konversi suhu. Syntaks yang saya bagikan bukan untuk contekan semata, tetapi untuk memudahkan para pelajar memahami cara penulisan dan fungsi syntaks pada bahasa pemrograman java
+Kumpulan project dan latihan Java untuk memahami konsep dasar hingga penerapan OOP.  
+Repo ini berisi berbagai contoh program kecil yang ditulis dengan Java.
+
+---
+
+## 📚 Isi Repo
+- **Dasar Java** → struktur program, variabel, input/output  
+- **Control Flow** → if/else, loop, switch-case  
+- **OOP** → class, objek, inheritance, polymorphism  
+- **Mini Projects** → contoh sederhana seperti kalkulator, sistem kasir, atau manajemen data  
+
+---
+
+## 🔧 Tech Stack
+- **Bahasa:** Java (JDK 8 atau lebih baru)  
+- **IDE yang disarankan:** IntelliJ IDEA / Eclipse / NetBeans  
+
+---
+
+## 🚀 Cara Menjalankan
+1. Clone repo:
+   ```bash
+   git clone https://github.com/dimasariyantopr/Java.git
+   cd Java
